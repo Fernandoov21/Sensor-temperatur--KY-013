@@ -1,4 +1,4 @@
-# Sensor-temperatur--KY-013
+# Sensor-KY-013
 
 # **¿Que es el modeulo KY-013?**
 
@@ -23,7 +23,7 @@ Este sensor de temperatura analógica KY-013 consta de un termistor NTC y una re
 - Peso: 1 gr
 
 **Codigo para practica basica**
-El derivará la temperatura del termistor utilizando la  ecuación de Steinhart-Hart . El código devolverá la temperatura en grados Celsius, descomente la línea 17 para obtener la temperatura en grados Farenheit.
+El codigo  derivará la temperatura del termistor utilizando la  ecuación de Steinhart-Hart . El código devolverá la temperatura en grados Celsius, descomente la línea 17 para obtener la temperatura en grados Farenheit.
 ´´´´
 int ThermistorPin = A0;
 int Vo;
