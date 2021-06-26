@@ -1,4 +1,4 @@
-# Sensor-KY-013
+# Modulo-KY-013
 
 # **¿Que es el modeulo KY-013?**
 
